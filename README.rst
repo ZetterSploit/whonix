@@ -30,21 +30,21 @@
     
     whonixchek
 
-[+] open dashboard
+  [+] open dashboard
     
     nyx
     
-  [+] new identity in dashboard 
+    [+] new identity in dashboard 
     
-    n
+     n
   
-  [+] menu in dashboard
+    [+] menu in dashboard
   
-    m
+     m
   
 [+] connect your unix system to whonix gateway
   
-  add or adjuste your parametre in /etc/network/interfaces
+  [+] add or adjuste your parametre in /etc/network/interfaces
   
    nano /etc/network/interfaces
   
@@ -54,7 +54,7 @@
    netmask 255.255.192.0
    gateway 10.152.152.10
 
-  add in /etc/resolv.conf
+  [+] add in /etc/resolv.conf
 
   nano /etc/resolv.conf
   
@@ -63,7 +63,7 @@
   reboot
 
 [+] configure virtualbox parametre
+
   configure virtualbox gateway in configuration > network
-  
   network interface mode : select "internal network"
   name : select "Whonix"
