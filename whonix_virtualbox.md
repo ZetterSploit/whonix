@@ -1,4 +1,4 @@
-[!] whonix for virtualbox
+# whonix for virtualbox
 
 [+] download whonix
 
